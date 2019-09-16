@@ -39,7 +39,7 @@ Publishing
 -------
 - Publish to your local repository
   ```
-  sbt publish-local
+  sbt publishLocal
   ```
   
 Testing
@@ -51,7 +51,7 @@ Testing
   
 - Run one test
   ```
-  sbt test-only *AkkaHttpBootSpec
+  sbt testOnly *AkkaHttpBootSpec
   ```
   
 Example Usage

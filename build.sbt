@@ -1,6 +1,6 @@
 name := "akka-http-lib"
 organization := "dev.tamer"
-version := "1.0.0"
+version := "1.1.0"
 
 scalacOptions := Seq("-unchecked", "-deprecation", "-encoding", "utf8")
 
